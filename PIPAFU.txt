@@ -1,0 +1,6 @@
+JPG e PNG
+
+Capitulo 6 partr 3 - Tamanhos de imagem
+Favicon: icone do site
+Favicon.io //usa uma foto
+favicon.cc //você cria do zero
