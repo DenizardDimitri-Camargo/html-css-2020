@@ -6,5 +6,5 @@ Favicon.io //usa uma foto
 favicon.cc //você cria do zero
 
 
-Capítulo 11 - Mídia
+Capítulo 11 - Mídia //Youtube e Vimeo
 Colocar aúdio no site do PIPAFU //<audio preload="autoplay'
