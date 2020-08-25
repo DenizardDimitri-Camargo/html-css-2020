@@ -11,3 +11,14 @@ Colocar aúdio no site do PIPAFU //<audio preload="autoplay'
 
 Capítulo 13 - Cores
 Mostra a paleta de cores a escolher, vou ver qual uso no PIPAFU
+Capítulo 13 parte 3
+de 3 a 5 cores de paleta, usar a cor primária da logo do PIPAFU
+Cores análogas mais uma complementar: azul(contraste) - laranja, armarelo-alaranjado, vermelho-alanrajado
+No adobe: Dividir complementar / Personalizado
+Amarelo: #FBE959
+Amarelo-escuro: #CDBC4B	
+Azul(contraste): #94C4CD
+laranja: #F26B39
+laranja-escuro: #CE5B39
+Vermelho: #EF4537
+Vermelho-escuro: #CE3939
