@@ -22,3 +22,8 @@ laranja: #F26B39
 laranja-escuro: #CE5B39
 Vermelho: #EF4537
 Vermelho-escuro: #CE3939
+
+Capítulo 14 - Fontes
+Parte 6, 7 e 8:
+Se usa de 3 a 4 fontes (Grandes título, destaque e normal)
+Talvez queiram escolher a fonte - Google Fonts e Fonts Ninja
