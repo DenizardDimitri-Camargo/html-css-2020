@@ -18,3 +18,19 @@ h1#principal {
 h2 {
     color: rgb(6, 173, 173);
 }
+
+.basico {
+    color: rgb(6, 173, 173);
+}
+
+.intermediario {
+    color: rgb(173, 162, 6);
+}
+
+.avancado {
+    color: rgb(173, 17, 6);
+}
+
+.destaque {
+    background-color: rgba(192, 192, 86, 0.411);
+}
