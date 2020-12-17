@@ -45,7 +45,13 @@ nav > div{
 }
 main{
     background-color: white;
-    width: 75%;;
+    margin: auto;
+    width: 75%;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    margin-bottom: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; 
 }
 main > section.youtube{
 }
@@ -53,8 +59,14 @@ main h1{
     color: var(--cor4);
     font-family: var(--fonte-android)
 }
-main h1{
-    
+main img{
+    width: 100%
+}
+
+main img.pequena{
+    width: 50%;
+    display: block;
+    margin: auto;
 }
 
 h2{

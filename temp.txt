@@ -1,0 +1,3 @@
+Cap. 17: Site Completo - Parte 7: Responsividade
+
+Window resizer //muda o tamanho da tela e mostra em celulares
