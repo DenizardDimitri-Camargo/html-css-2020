@@ -19,22 +19,30 @@ body{
 }
 body > div {
     background-color: white;
-    width: 75%;;
+    width: 75%;
 }
 header{
     background-color: var(--cor3);
     color: white;
     text-align: center;
     width: 100%;
+    padding-top: 40px;
 }
 header > h1{
-    color: var(--cor3);
+    /* color: var(--cor3); */
     font-family: var(--fonte-destaque);
+    min-height: 150px;
+    margin-bottom: 20px;
+    font-size: 3em;
 }
-header > p{
+header > p {
     background-color: var(--cor3);
     text-align: center;
     text-indent: 0%;
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
+    max-width: 600px;
+    margin: auto;   
 }
 nav {
     background-color: var(--cor4);
