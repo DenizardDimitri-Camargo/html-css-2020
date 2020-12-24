@@ -1,3 +1,8 @@
-Cap. 17: Site Completo - Parte 7: Responsividade
+Cap. 18: Imagens de fundo - Parte 1: 
 
-Window resizer //muda o tamanho da tela e mostra em celulares
+Window resizer //muda o tamanho da tela 
+e mostra em celulares
+
+
+
+
