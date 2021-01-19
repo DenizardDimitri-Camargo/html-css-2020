@@ -1,4 +1,4 @@
-Cap. 18: Imagens de fundo - Parte 1: 
+Cap. 20: Projeto Cordel - Parte 3: Ajustando o estilo CSS
 
 Window resizer //muda o tamanho da tela 
 e mostra em celulares
